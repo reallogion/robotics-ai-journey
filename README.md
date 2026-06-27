@@ -1,6 +1,3 @@
-Here's a tighter version:
-
-```markdown
 # 🤖 Robotics AI Journey
 
 Documenting my path to becoming a Robotics & Embodied AI Engineer — 

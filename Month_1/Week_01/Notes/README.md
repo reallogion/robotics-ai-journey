@@ -1,4 +1,4 @@
-# Week 1 — OOP Deep Dive
+# Week_01 — OOP Deep Dive
 
 ## Topics covered
 - Classes, objects, inheritance
