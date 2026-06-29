@@ -4,6 +4,9 @@
 - Classes, objects, inheritance
 - Dunder methods
 - Decorators basics
+- Advance Python:
+  Generator 
+  Lembda , Map , Context Manager ..etc
 
 ## Micro projects
 - `vector_class.py` — custom Vector class with dunder methods

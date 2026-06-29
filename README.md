@@ -23,5 +23,3 @@ follow along — the code won't always be perfect, and that's the point.
 YouTube: [link]
 Community: Yantra X
 ```
-
-Short, honest, scannable in 20 seconds. Push this version.
